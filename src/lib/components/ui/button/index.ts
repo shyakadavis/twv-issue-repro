@@ -9,8 +9,8 @@ const buttonVariants = tv({
 			default: 'bg-indigo-500 text-white hover:bg-indigo-600 active:bg-indigo-700',
 			'working-above-the-commented-out-line':
 				'bg-sky-500 text-white hover:bg-sky-600 active:bg-sky-700',
-			error:
-				'bg-indigo-500 text-white hover:bg-indigo-600 active:bg-indigo-700 shadow-[4px_4px_0px_rgba(0,0,0,1)]',
+			// error:
+			// 	'bg-indigo-500 text-white hover:bg-indigo-600 active:bg-indigo-700 shadow-[4px_4px_0px_rgba(0,0,0,1)]',
 			'not-working-below-the-commented-out-line':
 				'bg-pink-500 text-white hover:bg-pink-600 active:bg-pink-700',
 			destructive: 'bg-destructive text-destructive-foreground hover:bg-destructive/90',
